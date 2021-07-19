@@ -2,6 +2,9 @@ body{
     margin: 0;
     font-family: 'Roboto', sans-serif;
 }
+
+/* top area */
+
 .top-banner{
     display: flex;
     background-image: url(img/top-banner.png);
@@ -36,4 +39,15 @@ section {
 }
 .big-text{
     font-size: 48px;
+}
+
+/* dream area */
+.dream-area {
+    display: flex;
+    background-image: url(img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.dream-half{
+    padding-right: 5%;
 }
