@@ -1,5 +1,6 @@
 body{
     margin: 0;
+    font-family: 'Roboto', sans-serif;
 }
 .top-banner{
     display: flex;
@@ -8,7 +9,7 @@ body{
     
 }
 img{
-    width: 100%;
+    width: 90%;
 }
 .half-width{
     width: 50%;
@@ -32,4 +33,7 @@ section {
 }
 .p-text{
     text-align: justify;
+}
+.big-text{
+    font-size: 48px;
 }
