@@ -92,3 +92,13 @@ footer p{
     color: gray;
 }
 
+.experiences-area{
+    background-image: url(img/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+section{
+    height: 500px;
+}
+
